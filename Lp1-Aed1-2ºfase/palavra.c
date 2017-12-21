@@ -1,6 +1,7 @@
+#include <stddef.h>
 #include "palavra.h"
 
-Palavra * novaPalavra(char* texto){
+Palavra * palavra(char* texto){
     Palavra * palavra = (Palavra*)malloc(sizeof(Palavra));
     palavra->text = texto;
     return palavra;

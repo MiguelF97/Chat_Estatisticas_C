@@ -1,7 +1,8 @@
+#include <stddef.h>
 #include "mensagem.h"
 #include "palavra.h"
 
-Mensagem * novaMensagem(){
+Mensagem * mensagem(){
     Mensagem * mensagem = (Mensagem*)malloc(sizeof(Mensagem));
     mensagem->first = null;
     return mensagem;
