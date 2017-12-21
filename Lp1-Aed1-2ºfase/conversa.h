@@ -6,9 +6,11 @@
 typedef struct Conversa Conversa;
 
 struct Conversa{
+    Conversa * next;
     Mensagem* first;
 };
 
-void novaMensagem(Conversa * conversa,char* mensagem);
+Conversa * newconversa();
+void novaMensagem(Conversa * conversa,Mensagem* mensagem);
 
 #endif // CONVERSA_H_INCLUDED

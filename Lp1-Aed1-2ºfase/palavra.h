@@ -9,7 +9,7 @@ struct Palavra{
     //importancia etc
 };
 
-Palavra * palavra(char* texto);
-void acrescentaPalavra(Palavra* antiga, char* texto);
+Palavra * newpalavra(char* texto);
+void acrescentaPalavra(Palavra* antiga, Palavra * next);
 void apagaPalavra(Palavra * palavra);
 #endif // PALAVRA_H_INCLUDED
