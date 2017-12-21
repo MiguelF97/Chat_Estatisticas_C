@@ -23,16 +23,16 @@ void novaMensagem(Conversa * conversa,char* mensagem)
         }
 
 
-        todasPalavras[numero_de_palavra]=(char*)malloc(sizeof(char)*(strlen(palavra)+1));
-        strcpy(todasPalavras[numero_de_palavra],palavra);
-        todasPalavras[numero_de_palavra][strlen(palavra)]='\0';
+        todasPalavras[numero_de_palavras_na_conversa]=(char*)malloc(sizeof(char)*(strlen(palavra)+1));
+        strcpy(todasPalavras[numero_de_palavras_na_conversa],palavra);
+        todasPalavras[numero_de_palavras_na_conversa][strlen(palavra)]='\0';
         numero_de_palavras_na_conversa++;
 
         if(numero_de_palavras_na_conversa%10==0)
         {
             todasPalavras = realloc(todasPalavras,((numero_de_palavras_na_conversa+10)*sizeof(char*)));
             int h=0;
-            for(h=numero_de_palavra; h<numero_de_palavras_na_conversa+10; h++)
+            for(h=numero_de_palavras_na_conversa; h<numero_de_palavras_na_conversa+10; h++)
             {
                 todasPalavras[h]=NULL;
 
