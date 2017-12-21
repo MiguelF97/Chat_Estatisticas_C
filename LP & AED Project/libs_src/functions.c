@@ -76,7 +76,7 @@ char **create_array_strings(char *frases,int *n_frases)
 char **separar_palavras(char **array, int n_frases, int *numero_de_palavras,int *** array_posicao, char*** array_repetidas, int *todas_as_palavras_int)
 {
 
-    printf("%d----------\n",n_frases);
+   // printf("%d----------\n",n_frases);
     char *palavra=NULL;
     int numero_de_palavra = 0,numero_da_palavra_frases=0,numero_da_palavra_frases_total=0,npalavrasmax=10,i,c;
     char **todasPalavras=(char**)malloc(sizeof(char *)*10);
