@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="LP &amp; AED Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/LP &amp; AED Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/LP &amp; AED Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="data/message_1.txt.txt" />
+		<Unit filename="libs_src/functions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs_src/functions.h" />
+		<Unit filename="libs_src/lib_stats.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs_src/lib_stats.h" />
+		<Unit filename="libs_src/lib_util.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs_src/lib_util.h" />
+		<Unit filename="libs_src/strings/stringsorting.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs_src/strings/stringsorting.h" />
+		<Unit filename="libs_src/threesum/ThreeSum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs_src/threesum/ThreeSum.h" />
+		<Unit filename="libs_src/threesum/ThreeSumFast.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs_src/threesum/ThreeSumFast.h" />
+		<Unit filename="libs_src/threesum/clientThreeSum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs_src/threesum/clientThreeSum.h" />
+		<Unit filename="libs_src/union_find/quickfind.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs_src/union_find/quickfind.h" />
+		<Unit filename="libs_src/union_find/quickunion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libs_src/union_find/quickunion.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

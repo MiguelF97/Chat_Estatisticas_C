@@ -1,0 +1,241 @@
+# depslib dependency file v1.0
+1474587940 source:c:\users\artem\desktop\lp & aed project\libs_src\lib_stats.c
+	"lib_stats.h"
+
+1474587922 c:\users\artem\desktop\lp & aed project\libs_src\lib_stats.h
+	<stdio.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+
+1474587946 source:c:\users\artem\desktop\lp & aed project\libs_src\lib_util.c
+	"lib_util.h"
+
+1474587952 c:\users\artem\desktop\lp & aed project\libs_src\lib_util.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<sys/time.h>
+
+1508769370 source:c:\users\artem\desktop\lp & aed project\libs_src\strings\stringsorting.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"../../libs_src/lib_util.h"
+	"stringsorting.h"
+
+1508768442 c:\users\artem\desktop\lp & aed project\libs_src\strings\stringsorting.h
+
+1506903806 source:c:\users\artem\desktop\lp & aed project\libs_src\threesum\clientthreesum.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"ThreeSum.h"
+	"ThreeSumFast.h"
+	"clientThreeSum.h"
+	"../lib_util.h"
+
+1475801140 c:\users\artem\desktop\lp & aed project\libs_src\threesum\threesum.h
+
+1506380404 c:\users\artem\desktop\lp & aed project\libs_src\threesum\threesumfast.h
+
+1506386416 c:\users\artem\desktop\lp & aed project\libs_src\threesum\clientthreesum.h
+
+1475801156 source:c:\users\artem\desktop\lp & aed project\libs_src\threesum\threesum.c
+	<string.h>
+	"../lib_util.h"
+	"ThreeSum.h"
+
+1475801172 source:c:\users\artem\desktop\lp & aed project\libs_src\threesum\threesumfast.c
+	<stdio.h>
+	"../lib_util.h"
+	"ThreeSum.h"
+	"ThreeSumFast.h"
+
+1508158478 source:c:\users\artem\desktop\lp & aed project\libs_src\union_find\quickfind.c
+	"quickfind.h"
+
+1508158478 c:\users\artem\desktop\lp & aed project\libs_src\union_find\quickfind.h
+
+1508158478 source:c:\users\artem\desktop\lp & aed project\libs_src\union_find\quickunion.c
+	<stdio.h>
+	"quickunion.h"
+
+1508158478 c:\users\artem\desktop\lp & aed project\libs_src\union_find\quickunion.h
+
+1509761969 source:c:\users\artem\desktop\lp & aed project\libs_src\functions.c
+	"lib_stats.h"
+	"lib_util.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1509760116 source:c:\users\artem\desktop\lp & aed project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1509759794 c:\users\artem\desktop\lp & aed project\libs_src\functions.h
+
+1512406061 source:c:\users\asu\desktop\lp & aed project\libs_src\functions.c
+	"lib_stats.h"
+	"lib_util.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1474587922 c:\users\asu\desktop\lp & aed project\libs_src\lib_stats.h
+	<stdio.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+
+1474587952 c:\users\asu\desktop\lp & aed project\libs_src\lib_util.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<sys/time.h>
+
+1512398624 c:\users\asu\desktop\lp & aed project\libs_src\functions.h
+
+1474587940 source:c:\users\asu\desktop\lp & aed project\libs_src\lib_stats.c
+	"lib_stats.h"
+
+1474587946 source:c:\users\asu\desktop\lp & aed project\libs_src\lib_util.c
+	"lib_util.h"
+
+1508769370 source:c:\users\asu\desktop\lp & aed project\libs_src\strings\stringsorting.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"../../libs_src/lib_util.h"
+	"stringsorting.h"
+
+1508768442 c:\users\asu\desktop\lp & aed project\libs_src\strings\stringsorting.h
+
+1506903806 source:c:\users\asu\desktop\lp & aed project\libs_src\threesum\clientthreesum.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"ThreeSum.h"
+	"ThreeSumFast.h"
+	"clientThreeSum.h"
+	"../lib_util.h"
+
+1475801140 c:\users\asu\desktop\lp & aed project\libs_src\threesum\threesum.h
+
+1506380404 c:\users\asu\desktop\lp & aed project\libs_src\threesum\threesumfast.h
+
+1506386416 c:\users\asu\desktop\lp & aed project\libs_src\threesum\clientthreesum.h
+
+1475801156 source:c:\users\asu\desktop\lp & aed project\libs_src\threesum\threesum.c
+	<string.h>
+	"../lib_util.h"
+	"ThreeSum.h"
+
+1475801172 source:c:\users\asu\desktop\lp & aed project\libs_src\threesum\threesumfast.c
+	<stdio.h>
+	"../lib_util.h"
+	"ThreeSum.h"
+	"ThreeSumFast.h"
+
+1508158478 source:c:\users\asu\desktop\lp & aed project\libs_src\union_find\quickfind.c
+	"quickfind.h"
+
+1508158478 c:\users\asu\desktop\lp & aed project\libs_src\union_find\quickfind.h
+
+1508158478 source:c:\users\asu\desktop\lp & aed project\libs_src\union_find\quickunion.c
+	<stdio.h>
+	"quickunion.h"
+
+1508158478 c:\users\asu\desktop\lp & aed project\libs_src\union_find\quickunion.h
+
+1512398569 source:c:\users\asu\desktop\lp & aed project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1474587940 source:c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\lib_stats.c
+	"lib_stats.h"
+
+1474587922 c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\lib_stats.h
+	<stdio.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+
+1474587946 source:c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\lib_util.c
+	"lib_util.h"
+
+1474587952 c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\lib_util.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+	<sys/time.h>
+
+1508769370 source:c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\strings\stringsorting.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"../../libs_src/lib_util.h"
+	"stringsorting.h"
+
+1508768442 c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\strings\stringsorting.h
+
+1506903806 source:c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\threesum\clientthreesum.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"ThreeSum.h"
+	"ThreeSumFast.h"
+	"clientThreeSum.h"
+	"../lib_util.h"
+
+1475801140 c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\threesum\threesum.h
+
+1506380404 c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\threesum\threesumfast.h
+
+1506386416 c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\threesum\clientthreesum.h
+
+1475801156 source:c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\threesum\threesum.c
+	<string.h>
+	"../lib_util.h"
+	"ThreeSum.h"
+
+1475801172 source:c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\threesum\threesumfast.c
+	<stdio.h>
+	"../lib_util.h"
+	"ThreeSum.h"
+	"ThreeSumFast.h"
+
+1508158478 source:c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\union_find\quickfind.c
+	"quickfind.h"
+
+1508158478 c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\union_find\quickfind.h
+
+1508158478 source:c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\union_find\quickunion.c
+	<stdio.h>
+	"quickunion.h"
+
+1508158478 c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\union_find\quickunion.h
+
+1512398569 source:c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1513890215 source:c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\functions.c
+	"lib_stats.h"
+	"lib_util.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1512398624 c:\users\asu\desktop\projeto-lp1-aed1\lp1-aed1-project-im-\lp & aed project\libs_src\functions.h
+

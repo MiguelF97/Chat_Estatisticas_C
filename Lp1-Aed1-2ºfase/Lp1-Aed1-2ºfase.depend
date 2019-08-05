@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1513895789 source:c:\users\nuno\desktop\faculdade\lp1-aed1-project-im-\lp1-aed1-2ºfase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conversa.h"
+
+1513895783 source:c:\users\nuno\desktop\faculdade\lp1-aed1-project-im-\lp1-aed1-2ºfase\conversa.c
+	<stddef.h>
+	"mensagem.h"
+	"palavra.h"
+	"conversa.h"
+
+1513894966 c:\users\nuno\desktop\faculdade\lp1-aed1-project-im-\lp1-aed1-2ºfase\mensagem.h
+	"palavra.h"
+
+1513894601 c:\users\nuno\desktop\faculdade\lp1-aed1-project-im-\lp1-aed1-2ºfase\palavra.h
+
+1513895780 c:\users\nuno\desktop\faculdade\lp1-aed1-project-im-\lp1-aed1-2ºfase\conversa.h
+	"mensagem.h"
+
+1513895504 source:c:\users\nuno\desktop\faculdade\lp1-aed1-project-im-\lp1-aed1-2ºfase\mensagem.c
+	<stddef.h>
+	"mensagem.h"
+
+1513895500 source:c:\users\nuno\desktop\faculdade\lp1-aed1-project-im-\lp1-aed1-2ºfase\palavra.c
+	<stddef.h>
+	"palavra.h"
+
